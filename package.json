@@ -1,0 +1,20 @@
+{
+  "name": "flot-axislabels",
+  "version": "1.0.0",
+  "description": "Null",
+  "main": "jquery.flot.axislabels.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wktang/flot-axislabels.git"
+  },
+  "keywords": [
+    "flot"
+  ],
+  "bugs": {
+    "url": "https://github.com/wktang/flot-axislabels/issues"
+  },
+  "homepage": "https://github.com/wktang/flot-axislabels#readme"
+}
